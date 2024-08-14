@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <record id="view_op_document_type_search" model="ir.ui.view">
+            <field name="name">op.document.type.search</field>
+            <field name="model">op.document.type</field>
+            <field name="arch" type="xml">
+                <search string="Tipo de documentos">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="required"/>
+                    <newline/>
+                </search>
+            </field>
+        </record>
+
+        <record id="view_op_document_type_tree" model="ir.ui.view">
+            <field name="name">op.document.type.tree</field>
+            <field name="model">op.document.type</field>
+            <field name="arch" type="xml">
+                <tree string="Tipo de documentos">
+                    <field name="name"/>
+                    <field name="code"/>
+                    <field name="required"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="view_op_document_type_form" model="ir.ui.view">
+            <field name="name">op.document.type.form</field>
+            <field name="model">op.document.type</field>
+            <field name="arch" type="xml">
+                <form>
+                    <sheet>
+                        <group>
+                            <group>
+                                <field name="name"/>
+                                <field name="code"/>
+                            </group>
+                            <group>
+                                <field name="required"/>
+                            </group>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="op_document_type_action" model="ir.actions.act_window">
+            <field name="name">Tipo de documentos</field>
+            <field name="res_model">op.document.type</field>
+            <field name="view_mode">tree,form</field>
+            <field name="search_view_id" ref="view_op_document_type_search"/>
+        </record>
+
+        <menuitem id="menu_op_document_type"
+            name="Tipo de documentos"
+            parent="isep_student_custom.menu_op_university_main"
+            sequence="20"
+            action="isep_student_custom.op_document_type_action"
+            groups="openeducat_core.group_op_faculty"/>
+    </data>
+</odoo>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="view_op_university_tree" model="ir.ui.view">
+            <field name="name">view_op_university_tree</field>
+            <field name="model">op.university</field>
+            <field name="priority" eval="8"/>
+            <field name="arch" type="xml">
+                <tree string="Universidad">
+                    <field name="name"/>
+                    <field name="code" />
+                </tree>
+            </field>
+        </record>
+        <record id="view_op_university_form" model="ir.ui.view">
+            <field name="name">view_op_university_form</field>
+            <field name="model">op.university</field>
+            <field eval="100" name="priority"/>
+            <field name="arch" type="xml">
+                <form>                
+                    <sheet>                
+                        <group>
+                            
+                            <group>
+                                <field name="name" />
+                            </group>                                
+                            <group>      
+                                <field name="code" />                      
+                            </group>                    
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+        <record id="action_op_university" model="ir.actions.act_window">
+            <field name="name">Universidades</field>
+            <field name="res_model">op.university</field>
+            <field name="view_mode">tree,form</field>
+            <field name="view_id" ref="view_op_university_tree"/>
+            <field name="context">{}</field>
+            <field name="help" type="html">
+              <p class="o_view_nocontent_smiling_face">
+                Crear nuevos registros
+              </p>
+            </field>
+          </record>
+
+        <menuitem id="menu_op_university_main"
+          name="Mantenimiento de alumnos"
+          parent="openeducat_core.menu_op_school_config"
+          sequence="80"
+          groups="openeducat_core.group_op_faculty"/>
+    
+        <menuitem id="menu_op_university_sub" 
+            name="Universidades"
+            parent="isep_student_custom.menu_op_university_main" 
+            sequence="10"
+            action="isep_student_custom.action_op_university" 
+            groups="openeducat_core.group_op_faculty"/>
+    </data>
+</odoo>

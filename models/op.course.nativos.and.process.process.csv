@@ -1,0 +1,195 @@
+id,name,course_type_id/id,area_id/id,code,evaluation_type,fees_term_id/id,company_id/id,lang,is_imported_record
+__export__.op_course_4_8a083195,LICENCIATURA EN MERCADOTECNIA DIGITAL,,,LTMD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_5_9b42fabd,LICENCIATURA EN CONTADURÍA PÚBLICA,,,LTCP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_6_2ba53b7f,LICENCIATURA EN INGENIERÍA INDUSTRIAL,,,LTII,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_7_976485a8,LICENCIATURA EN CRIMINOLOGIA,,,LTCM,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_8_4b78609e,LICENCIATURA EN DERECHO,,,LTDC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_9_49acd0e5,MAESTRÍA EN PSICOLOGÍA CLÍNICA,,,MTPS,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_14_9c8128fa,MAESTRÍA EN PSICOLOGIA FORENSE,,,MTML,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_18_5d81b568,MAESTRÍA EN PATOLOGÍAS DEL LENGUAJE Y EL HABLA,,,MTLP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_22_fa5d7b7c,MAESTRÍA EN ADMINISTRACIÓN,,,MTAD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_24_62e8bacd,LICENCIATURA EN PSICOLOGÍA,,,LTPS,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_25_d5a806f7,LICENCIATURA EN INGENIERIA EN DESARROLLO DE SOFTWARE,,,LTSW,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_33_671a9edf,DOCTORADO EN EDUCACIÓN,,,DIE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_34_624e544a,ESPECIALIDAD EN TERAPIA SEXUAL Y DE PAREJA,,,PGSE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_35_7352cd86,ESPECIALIDAD EN PSICOONCOLOGIA,,,PGPO,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_36_aba80c35,ESPECIALIDAD EN PSICOLOGÍA CLÍNICA INFANTOJUVENIL,,,PGPI,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_37_1572a799,ESPECIALIDAD EN TRASTORNOS AUTISTAS.,,,PGAU.,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_38_d7e33622,ESPECIALIDAD EN ATENCIÓN TEMPRANA,,,PGAT,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_39_b2279010,ESPECIALIDAD EN NEUROPSICOLOGÍA,,,PGNP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_40_429ee9dc,LICENCIATURA EN INGENIERÍA EN ENERGIAS RENOVABLES,,,LTER,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_41_a635b6a0,LICENCIATURA EN COMERCIO EXTERIOR,,,LTCE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_42_0b8bb23e,MÁSTER EN PSICOONCOLOGÍA Y CUIDADOS PALIATIVOS,,,MTCP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_43_62386913,MÁSTER EN PSICOTERAPIA COGNITIVO CONDUCTUAL,,,MTMP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_44_d1f6fa56,MÁSTER EN PSICOTERAPIA INFANTOJUVENIL,,,MTPF,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_45_f71b2c51,MÁSTER EN INTELIGENCIA EMOCIONAL,,,MTIE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_46_7e53cdb8,MÁSTER EN INTERVENCIÓN EN DIFICULTADES DEL APRENDIZAJE,,,MTAP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_47_dda711d8,MÁSTER EN NEUROPSICOLOGÍA CLÍNICA,,,MTNP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_49_3d7e8cf5,MAESTRÍA EN INTELIGENCIA DE NEGOCIOS Y DATOS MASIVOS,,,MID,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_50_878129b9,MAESTRÍA EN DIRECCIÓN DE PROYECTOS,,,MDP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_51_14d7cc54,MAESTRÍA EN EDUCACIÓN ESPECIAL,,,MTES,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_52_361f5520,MAESTRÍA EN PSICOPEDAGOGÍA,,,MTPV,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_55_eef85640,MAESTRÍA EN NEUROGESTIÓN DEL TALENTO HUMANO,,,MGT,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_56_30820863,MAESTRÍA EN EDUCACIÓN,,,MED,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_61_4e0439f7,MAESTRÍA EN PSICOTERAPIA COGNITIVO CONDUCTUAL,,,MP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_63_d6111f6c,MAESTRÍA EN NEUROPSICOLOGÍA,,,MN,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_65_044ef987,MÁSTER EN SEXOLOGÍA CLÍNICA Y TERAPIA DE PAREJAS,,,MTMS,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_66_329f3152,MAESTRÍA EN PSICOLOGÍA CLÍNICA Y DE LA SALUD,,,PC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_75_f382611c,MESTRADO EM PSICOLOGIA CLÍNICA E DA SAÚDE,,,BR-PC,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_76_dbb79c7b,MESTRADO EM EDUCAÇÃO,,,BR-MED,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_77_0e21e415,MESTRADO EM ADMINISTRAÇÃO,,,BR-MTAD,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_78_3eb06f38,MESTRADO EM GESTÃO DE PROJETOS,,,BR-MDP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_79_b2439af8,MESTRADO EM BIG DATA E BUSINESS INTELLIGENCE,,,BR-MID,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_80_6b3b5a4e,MESTRADO EM NEUROMANAGEMENT E GESTÃO DE TALENTOS,,,BR-MGT,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_81_9121a794,MESTRADO EM DISTÚRBIOS DA LINGUAGEM E DA FALA,,,BR-MTLP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_82_537fabec,MESTRADO EM PSICOLOGIA FORENSE,,,BR-MTML,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_83_92c05e22,MESTRADO EM EDUCAÇÃO ESPECIAL,,,BR-MTES,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_84_18da0bb6,MESTRADO EM PSICOPEDAGOGIA TERAPÊUTICA,,,BR-MTPV,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_85_91eb3362,MESTRADO EM INTERVENÇÃO EM DIFICULDADES DE APRENDIZAGEM,,,BR-MTAP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_86_35106037,MESTRADO EM NEUROPSICOLOGIA CLÍNICA,,,BR-MN,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_87_020714c2,MESTRADO EM PSICOLOGIA CLÍNICA DA CRIANÇA E DO ADOLESCENTE,,,BR-MTMI,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_88_5d730129,MESTRADO EM SEXOLOGIA CLÍNICA E TERAPIA DE CASAIS,,,BR-MTMS,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_89_7a118714,MESTRADO EM TERAPIA COGNITIVO-COMPORTAMENTAL,,,BR-MTMP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_90_928a054e,MESTRADO EM PSICOTERAPIA DA CRIANÇA E DO ADOLESCENTE,,,BR-MTPF,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_91_4cf74e81,MESTRADO EM PSICO-ONCOLOGIA E CUIDADOS PALIATIVOS,,,BR-MP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_92_1a71cd1b,GRADUAÇÃO EM MARKETING DIGITAL,,,BR-LTMD,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_93_3fea0928,GRADUAÇÃO EM CONTABILIDADE PÚBLICA,,,BR-LTCP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_94_55449833,GRADUAÇÃO EM ENGENHARIA INDUSTRIAL,,,BR-LTII,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_95_709273f8,GRADUAÇÃO EM CRIMINOLOGIA,,,BR-LTCM,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_96_c53f5371,GRADUAÇÃO EM DIREITO,,,BR-LTDC,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_97_39970cbc,GRADUAÇÃO EM PSICOLOGIA,,,BR-LTPS,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_98_d1cefef2,GRADUAÇÃO EM ENGENHARIA DE DESENVOLVIMENTO DE SOFTWARE,,,BR-LTSW,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_99_702eb51a,GRADUAÇÃO EM COMÉRCIO EXTERIOR,,,BR-LTCE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_100_9ef78afa,DOUTORADO EM EDUCAÇÃO,,,BR-DIE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_101_f08cd21f,ESPECIALIZAÇÃO EM TERAPIA SEXUAL E DE CASAIS,,,BR-PGSE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_102_3534cb46,ESPECIALIZAÇÃO EM PSICO-ONCOLOGIA,,,BR-PGPO,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_103_afd32dc2,ESPECIALIZAÇÃO EM PSICOLOGIA CLÍNICA DA CRIANÇA E DO ADOLESCENTE,,,BR-PGPI,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_104_d6f6194e,ESPECIALIZAÇÃO EM TRANSTORNO DO ESPECTRO DO AUTISMO,,,BR-PGAU,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_105_4c78ec06,ESPECIALIZAÇÃO EM CUIDADOS PRECOCES,,,BR-PGAT,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_106_5bd41539,ESPECIALIZAÇÃO EM NEUROPSICOLOGIA,,,BR-PGNP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_107_5fbd7730,MESTRADO EM PSICOLOGIA CLÍNICA,,,BR-MTPS,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,pt_BR,False
+__export__.op_course_114_808509db,CURSO DE PRUEBAS,,,TEST0011,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_119_bd4da2ef,ESPECIALIDAD EN TRASTORNOS AUTISTAS,,,PGAU,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+__export__.op_course_128_4e8efeae,ESPECIALIDAD EN NEUROPSICOLOGÍA CLÍNICA,,,NP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,False
+op_course_0002,MÁSTER EN PSICOLOGÍA CLÍNICA INFANTOJUVENIL,op_course_type_0001,op_area_course_0009,MI,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0004,MAESTRÍA EN PSICOLOGÍA FORENSE,op_course_type_0002,op_area_course_0009,ML,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0008,ESPECIALIDAD EN PSICOONCOLOGÍA,op_course_type_0004,op_area_course_0009,PO,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0010,ISEP EMPRENDE,op_course_type_0003,op_area_course_0009,IL,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0018,MAESTRÍA EN PSICOPEDAGOGÍA TERAPÉUTICA,op_course_type_0001,op_area_course_0021,PV,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0019,TALLER DE TERAPIA ONLINE ELR,op_course_type_0002,,TTONLINED,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0021,MAESTRÍA EN NEUROMANAGEMENT Y GESTION DEL TALENTO,op_course_type_0001,op_area_course_0020,TH,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0024,MÁSTER EN INNOVACIÓN EDUCATIVA Y COMPETENCIAS DIGITALES,op_course_type_0001,,IC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0026,MAESTRÍA EN BIG DATA Y BUSINESS INTELLIGENCE,op_course_type_0001,op_area_course_0019,BB,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0034,CURSO CIBERBULLYING,,op_area_course_0021,CB,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_5_6c52fb92,es_MX,True
+op_course_0035,CURSO DÉFICIT DE ATENCIÓN,op_course_type_0003,op_area_course_0021,DA,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_5_6c52fb92,es_MX,True
+op_course_0048,LÍDER ISEP: DESENVOLVA SEU PROJETO PROFISSIONAL E MARCA PESSOAL,op_course_type_0006,op_area_course_0023,EDU,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0057,DIPLOMADOS HABILIDADES BÁSICAS DEL TERAPEUTA,op_course_type_0007,op_area_course_0022,HB,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0058,DIPLOMADO DIAGNÓSTICO E INTERVENCIÓN EN TRASTORNOS MENTALES,op_course_type_0007,op_area_course_0022,DI,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0059,DIPLOMADO TERAPIA CC CENTRADA EN PERSONAS ADULTAS,op_course_type_0007,op_area_course_0009,TC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0060,DIPLOMADO EVALUACIÓN INFANTOJUVENIL,op_course_type_0007,op_area_course_0022,EI,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0061,DIPLOMADO TÉCNICAS DE INTERVENCIÓN INFANTOJUVENIL,op_course_type_0007,op_area_course_0022,TI,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0062,DIPLOMADO DIAGNÓSTICO E INTERVENCIÓN INFANTOJUVENIL EN TRASTORNOS DE ANSIEDAD; DEPRESIVOS Y BIPOLARES,op_course_type_0007,op_area_course_0022,IJ,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0063,DIPLOMADO DIAGNÓSTICO DE TRASTORNOS CLÍNICOS Y SU REPERCUSIÓN FORENSE,op_course_type_0007,op_area_course_0022,TF,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0064,DIPLOMADO PSICOLOGÍA FORENSE CENTRADA EN NIÑOS Y NIÑAS,op_course_type_0007,op_area_course_0022,FN,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0065,DIPLOMADO PSICOLOGÍA FORENSE CENTRADA EN LA MUJER Y LA FAMILIA,op_course_type_0007,op_area_course_0022,FM,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0067,DIPLOMADO EL PSICÓLOGO EN ONCOLOGÍA; ALTERACIONES PSICOLÓGICAS DERIVADAS DEL CÁNCER,op_course_type_0007,op_area_course_0022,PA,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0068,DIPLOMADO EL CÁNCER EN LA FAMILIA,op_course_type_0007,op_area_course_0022,DC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0069,DIPLOMADO DISFUNCIONES SEXUALES,op_course_type_0007,op_area_course_0022,DS,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0070,DIPLOMADO TERAPIA DE PAREJA,op_course_type_0007,op_area_course_0022,TP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0071,DIPLOMADO CONOCIMIENTOS Y HABILIDADES BÁSICAS DE LA TERAPIA SEXUAL,op_course_type_0007,op_area_course_0022,BS,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0072,DIPLOMADO CAPACIDADES INTELECTUALES Y ESTRATEGIAS DE APRENDIZAJE,op_course_type_0007,op_area_course_0021,CE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0073,DIPLOMADO ALUMNOS CON DÉFICITS MOTORES; VISUALES Y AUDITIVOS,op_course_type_0007,op_area_course_0021,AD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0075,DIPLOMADO PSICOLOGÍA POSITIVA Y COACHING EDUCATIVO,op_course_type_0007,op_area_course_0021,PE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0076,DIPLOMADO RESOLUCIÓN DE CONFLICTOS Y EDUCACIÓN EN VALORES EN EL AULA,op_course_type_0007,op_area_course_0021,DR,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0077,DIPLOMADO PLANEACIÓN; DISEÑO CURRICULAR Y DE INSTRUMENTOS DE EVALUACIÓN EDUCATIVA,op_course_type_0007,op_area_course_0021,PD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0078,DIPLOMADO EVOLUCIÓN Y EXPLORACIÓN DEL LENGUAJE,op_course_type_0007,op_area_course_0012,EE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0079,DIPLOMADO TRASTORNOS DEL LENGUAJE Y EL HABLA,op_course_type_0007,op_area_course_0012,TL,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0080,DIPLOMADO FUNDAMENTOS NEUROPSICOLÓGICOS Y DEL NEUROMANAGEMENT,op_course_type_0007,op_area_course_0020,NN,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0081,DIPLOMADO BASES FINANCIERAS Y NEUROLIDERAZGO,op_course_type_0007,op_area_course_0026,BN,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0082,DIPLOMADO FUNDAMENTOS Y ADMINISTRACIÓN ESTRATÉGICA,op_course_type_0007,op_area_course_0019,FA,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0083,DIPLOMADO LIDERAZGO ORGANIZACIONAL Y TOMA DE DECISIONES,op_course_type_0007,op_area_course_0019,LO,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0084,DIPLOMADO FUDAMENTOS DE BIG DATA Y BUSINESS INTELLIGENCE,op_course_type_0007,op_area_course_0019,FB,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0085,DIPLOMADO ESTADÍSTICA; MODELOS DE REGRESIÓN Y ANÁLISIS PREDICTIVO PARA LA TOMA DE DECISIÓNES,op_course_type_0007,op_area_course_0019,EM,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0086,DIPLOMADO DIRECCIÓN DE PROYECTOS,op_course_type_0007,op_area_course_0019,IP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0087,DIPLOMADO GESTIONES PARA LA DIRECCIÓN DE PROYECTOS,op_course_type_0007,op_area_course_0019,GD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0088,DIPLOMADO NEUROLIDERAZGO Y GESTIÓN DE EQUIPOS DE ALTO RENDIMIENTO,op_course_type_0007,op_area_course_0019,NG,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0089,DIPLOMADO CONSULTORÍA Y CERTIFICACIÓN EN PROYECTOS,op_course_type_0007,op_area_course_0019,CC,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0091,ESPECIALIDADE EM DISTÚRBIOS DA LINGUAGEM ESCRITA,op_course_type_0004,op_area_course_0021,LE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0092,CURSO NUEVAS TECNOLOGÍAS APLICADAS A LA INTERVENCIÓN EDUCATIVA,,op_area_course_0021,TE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0093,CURSO PSICOLOGÍA DE LA SALUD,,op_area_course_0009,SD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0094,CLASES ONLINE EN VIVO PSICOLOGÍA,op_course_type_0005,op_area_course_0009,CV,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0095,CLASES ONLINE EN VIVO CVE,op_course_type_0005,op_area_course_0021,CVE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0096,CLASES ONLINE EN VIVO CVA,op_course_type_0005,op_area_course_0019,CVA,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0097,CLASES ONLINE EN VIVO CVLOP,op_course_type_0005,op_area_course_0012,CVLOP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0101,OKR CERTIFIED PROFESSIONAL - OKRCP™,op_course_type_0009,op_area_course_0028,OK,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0103,SAÚDE; TRABALHO E SAÚDE LABORAL,op_course_type_0010,op_area_course_0028,ST,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0104,TDAH - TRANSTORNO DE DÉFICIT DE ATENÇÃO COM OU SEM HIPERATIVIDADE,op_course_type_0010,op_area_course_0028,TD,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0105,AVALIAÇÃO DE PROBLEMAS PSICOLÓGICOS E DESENHO TERAPÊUTICO,op_course_type_0010,op_area_course_0028,AV,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0106,BIG DATA,op_course_type_0010,op_area_course_0028,DB,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0107,TÉCNICAS DE NEGOCIAÇÃO,op_course_type_0010,op_area_course_0028,TN,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0108,CYBERBULLYING,op_course_type_0010,op_area_course_0028,CY,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0109,PROCESSOS DE MEDIAÇÃO NA RESOLUÇÃO DE CONFLITOS,op_course_type_0010,op_area_course_0028,PM,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0110,AVALIAÇÃO E INTERVENÇÃO PSICOPEDAGÓGICA,op_course_type_0010,op_area_course_0028,AI,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0113,LICENCIATURA EN MARKETING DIGITAL SEP,op_course_type_0012,op_area_course_0019,MD,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0114,ESPECIALIZAÇÃO EM ACONSELHAMENTO E RELAÇÕES CONJUGAIS,op_course_type_0004,op_area_course_0022,RE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0115,GRADUAÇÃO EM ADMINISTRAÇÃO,op_course_type_0004,op_area_course_0029,GRADM,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0116,CENTRO DE ESTUDIO,op_course_type_0005,op_area_course_0009,CENES,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0118,KANBAN ESSENTIALS PROFESSIONAL CERTIFICATE - KEPC™,op_course_type_0009,op_area_course_0028,KE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0119,SCRUM PRODUCT OWNER PROFESSIONAL CERTIFICATE - SPOPC™,op_course_type_0009,op_area_course_0028,SP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0120,SCRUM MASTER PROFESSIONAL CERTIFICATE SMPC®,op_course_type_0009,op_area_course_0028,SM,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0121,FUNDAMENTOS NA LEI GERAL DE PROTEÇÃO DE DADOS - LGPDF ™,op_course_type_0009,op_area_course_0028,LG,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0123,DESIGN THINKING PROFESSIONAL CERTIFICATE - DTPC,op_course_type_0009,op_area_course_0028,DT,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0124,DESIGN SPRINT CERTIFICATION CPDSC™,op_course_type_0009,op_area_course_0028,CPD,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0125,AGILE COACH PROFESSIONAL CERTIFICATE - ACPC™,op_course_type_0009,op_area_course_0028,ACP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0126,INNOVATION MANAGEMENT CERTIFIED PROFESSIONAL - IMCP™,op_course_type_0009,op_area_course_0028,IMC,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0127,REMOTE WORK AND VIRTUAL COLLABORATION RWVCPC™,op_course_type_0009,op_area_course_0028,RWV,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0128,BLOCKCHAIN PROFESSIONAL CERTIFICATE - BCPC®,op_course_type_0009,op_area_course_0028,BCP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0129,BIG DATA PROFESSIONAL CERTIFICATE BDPC,op_course_type_0009,op_area_course_0028,BDP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0130,ARTIFICIAL INTELLIGENCE PROFESSIONAL CERTIFICATE - CAIPC™,op_course_type_0009,op_area_course_0028,CAI,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0131,DIGITAL MARKETING PROFESSIONAL CERTIFICATE - DMPC™,op_course_type_0009,op_area_course_0028,DMP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0132,AGILE HR PROFESSIONAL CERTIFICATE - AHRCP™,op_course_type_0009,op_area_course_0028,AHR,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0134,BUSINESS MODEL GENERATION PRACTITIONER BMGENP™,op_course_type_0009,op_area_course_0028,BMG,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0135,DEVOPS ADVANCED PROFESSIONAL CERTIFICATE DAPC™,op_course_type_0009,op_area_course_0028,DAP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0136,LEAD CYBERSECURITY PROFESSIONAL CERTIFICATE LCSPC™,op_course_type_0009,op_area_course_0028,LCS,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0137,LEAN SIX SIGMA GREEN BELT PROFESSIONAL CERTIFICATE LSSGBPC™,op_course_type_0009,op_area_course_0028,LSS,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0138,SCRUM DEVELOPER PROFESSIONAL CERTIFICATE SDPC™,op_course_type_0009,op_area_course_0028,SDP,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0139,SERVICE DESK LEADER PROFESSIONAL CERTIFICATE SDLPC™,op_course_type_0009,op_area_course_0028,SDL,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0140,USER STORIES FOUNDATIONS CERTIFICATE USFC™,op_course_type_0009,op_area_course_0028,USF,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0141,ISO 9001 LEAD AUDITOR - I9001LA,op_course_type_0009,op_area_course_0028,I900,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0142,ISO 20000 INTERNAL AUDITOR,op_course_type_0009,op_area_course_0028,ISO2I,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0143,ISO 20000 LEAD AUDITOR,op_course_type_0009,op_area_course_0028,ISO2L,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0144,ISO 20000 FOUNDATION PROFESSIONAL CERTIFICATE,op_course_type_0009,op_area_course_0028,ISO2F,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0145,ISO 22301 INTERNAL AUDITOR,op_course_type_0009,op_area_course_0028,ISO22I,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0146,ISO 22301 LEAD AUDITOR,op_course_type_0009,op_area_course_0028,ISO22L,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0147,ISO 22301 FOUNDATION PROFESSIONAL CERTIFICATE,op_course_type_0009,op_area_course_0028,ISO22F,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0148,ISO 27001 LEAD AUDITOR,op_course_type_0009,op_area_course_0028,ISO27L,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0149,ISO 27001 INTERNAL AUDITOR,op_course_type_0009,op_area_course_0028,ISO27I,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0150,ISO 27001 CERTIFIED LEAD IMPLEMENTER,op_course_type_0009,op_area_course_0028,ISO27C,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0151,ISO 27001 FOUNDATION,op_course_type_0009,op_area_course_0028,ISO27F,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0153,MAESTRÍA EN EDUCACIÓN CON ESPECIALIDAD EN EDUCACIÓN Y DOCENCIA,,op_area_course_0021,MTDO,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0155,MAESTRÍA EN EDUCACIÓN CON ESPECIALIDAD EN EDUCACIÓN Y GESTIÓN EDUCATIVA,,op_area_course_0021,EG,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0157,MAESTRÍA EN EDUCACIÓN CON ESPECIALIDAD EN EDUCACIÓN UNIVERSITARIA,,op_area_course_0021,EU,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0158,MAESTRÍA EN EDUCACIÓN CON ESPECIALIDAD EN EDUCACIÓN BASADA EN COMPETENCIAS,,op_area_course_0021,EB,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0160,CURSO INTELIGENCIA INTERPERSONAL,op_course_type_0003,op_area_course_0009,II,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0162,MASTER EN FILOSOFIA,,op_area_course_0009,MFF,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0163,MESTRADO TESTE,op_course_type_0001,op_area_course_0006,Mestrado Teste,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0164,MAESTRÍA EN PSICOLOGÍA CLÍNICA PARA ADULTOS,op_course_type_0001,op_area_course_0009,PCONMX23ISE,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0166,ÉNFASIS EN PSICOLOGÍA CLÍNICA PARA ADULTOS,op_course_type_0001,op_area_course_0009,EA,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0167,ÉNFASIS EN PSICOLOGÍA CLÍNICA INFANTOJUVENIL,op_course_type_0001,op_area_course_0009,EJ,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0168,ÉNFASIS EN PSICOLOGÍA CLÍNICA PARA PAREJAS,op_course_type_0001,op_area_course_0009,EP,Normal,__export__.op_fees_terms_3_c7c12456,base.main_company,es_MX,True
+op_course_0169,APOSTILAMENTO DE HAIA,op_course_type_0003,op_area_course_0028,HA,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0170,ESPECIALIZAÇÃO EM PSICOLOGIA CLÍNICA E DA SAÚDE,op_course_type_0004,op_area_course_0022,CO,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0171,ESPECIALIZAÇÃO EM AVALIAÇÃO E TERAPIA PSICOLÓGICA,op_course_type_0004,op_area_course_0022,LT,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0172,ESPECIALIZAÇÃO EM EDUCAÇÃO SOCIOEMOCIONAL NA INFÂNCIA E ADOLESCÊNCIA,op_course_type_0004,op_area_course_0023,IA,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0173,ESPECIALIZAÇÃO EM DIAGNÓSTICO E INTERVENÇÃO EM DISFUNÇÕES SEXUAIS,op_course_type_0004,op_area_course_0022,DD,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0174,ESPECIALIZAÇÃO EM PLANEJAMENTO EDUCACIONAL E CURRÍCULO INCLUSIVO,op_course_type_0004,op_area_course_0023,EC,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0175,ESPECIALIZAÇÃO EM PSICOLOGIA JURÍDICA E FORENSE,op_course_type_0004,op_area_course_0022,PJ,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0176,ESPECIALIZAÇÃO EM ALTAS CAPACIDADES E INTERVENÇÃO EDUCACIONAL,op_course_type_0004,op_area_course_0023,IT,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0177,ESPECIALIZAÇÃO EM INTERVENÇÃO PSICOPEDAGÓGICA E NECESSIDADES ESPECIAIS,,op_area_course_0023,NE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0178,ESPECIALIZAÇÃO EM NEUROPSICOLOGIA APLICADA À GESTÃO DE TALENTOS,op_course_type_0004,op_area_course_0026,AG,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0179,ESPECIALIZAÇÃO EM ANÁLISE DE DADOS E TOMADA DE DECISÃO ESTRATÉGICA,,op_area_course_0025,AE,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0180,ESPECIALIZAÇÃO EM NEUROGESTÃO ESTRATÉGICA E LIDERANÇA,,op_area_course_0025,NL,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0181,ESPECIALIZAÇÃO EM GESTÃO ESTRATÉGICA DE PROJETOS E LIDERANÇA,,op_area_course_0025,PL,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0182,ESPECIALIZAÇÃO EM LINGUAGEM; COGNIÇÃO E DISTÚRBIOS DE COMUNICAÇÃO,,op_area_course_0034,NC,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0183,ESPECIALIZAÇÃO EM ATUAÇÃO INTEGRAL DO PSICÓLOGO EM ONCOLOGIA,,op_area_course_0022,AO,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True
+op_course_0184,ESPECIALIZAÇÃO EM NEUROPSICOLOGIA E NEUROCIÊNCIA CLÍNICA,,op_area_course_0026,RN,Normal,__export__.op_fees_terms_3_c7c12456,__export__.res_company_8_50662d8b,es_MX,True

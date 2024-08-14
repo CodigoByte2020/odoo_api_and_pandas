@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_op_university,access_op_university,model_op_university,openeducat_core.group_op_faculty,1,1,1,1
+access_op_study_type,access_op_study_type,model_op_study_type,openeducat_core.group_op_faculty,1,1,1,1
+access_op_document_type,access_op_document_type,model_op_document_type,openeducat_core.group_op_faculty,1,1,1,1
+access_student_grade,access_student_grade,model_student_grade,openeducat_core.group_op_faculty,1,1,1,1
+access_op_gdrive_documents,access_op_gdrive_documents,model_op_gdrive_documents,openeducat_core.group_op_faculty,1,1,1,1

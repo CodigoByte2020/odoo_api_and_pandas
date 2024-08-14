@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data> 
+        <record id="view_op_student_form_custom_extended" model="ir.ui.view">
+            <field name="model">op.student</field>
+            <field name="inherit_id" ref="openeducat_core.view_op_student_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//notebook/page/group[@name='personal_detail']" position="replace">
+                    <group name="personal_detail">
+                        <group string="Datos del sistema">
+                            <field name="user_id" string="User" readonly="1"/>
+                            <field name="partner_id" placeholder="Partner" required="0"/>
+                            <field name="category_id"/>
+                            <field name="delay"/>
+                        </group>
+
+                        <group string="Datos del contacto">
+                            <field name="email" required="1"/>
+                            <field name="phone"/>
+                            <field name="mobile" required="1"/>
+                            <field name="lang"/>
+                            <field name="blood_group"/>
+                            <field name="nationality"/>
+                            <field name="visa_info"/>    
+                        </group>
+
+                        <group string="Datos personales">
+                            <field name="gender" required="1"/>
+                            <field name="place_birth"/>
+                            <field name="birth_date" required="1"/>
+                            <field name="op_document_type_id"/>
+                            <field name="document_number"/>
+                            <label for="type"/>
+                            <div name="div_type">
+                                <field class="oe_inline" name="type"/>
+                            </div>
+                            <label for="street" string="Address"/>
+                            <div name="o_address_format">
+                                <field name="street" placeholder="Street..."/>
+                                <field name="street2" placeholder="Street2"/>
+                                <div class="address_format">
+                                    <field name="city" placeholder="City" style="width: 40%"/>
+                                    <field name="state_id" class="oe_no_button" placeholder="State" style="width: 37%" options="{&quot;no_open&quot;: True}"/>
+                                    <field name="zip" placeholder="ZIP" style="width: 20%"/>
+                                </div>
+                                <field name="country_id" placeholder="Country" class="oe_no_button" options="{&quot;no_open&quot;: True}"/>
+                            </div>
+                            <field name="emergency_contact" context="{'show_address': 1}" options="{&quot;always_reload&quot;: True}"/>
+                        </group> 
+                                               
+                        <group string="Datos Académicos">
+                            <field name="gr_no" readonly="1"/>
+                            <field name="university_id" options="{'no_quick_create': True,'no_create_edit': True}"/>
+                            <field name="study_type_id" options="{'no_quick_create': True,'no_create_edit': True}"/>
+                            <field name="year_end_studies" />
+                            <field name="date_title"/>
+                            <field name="sepyc_program" />
+                            <field name="status_documentation" />
+                            <field name="status_student" readonly="1"/>
+                        </group>
+                    </group>
+                </xpath>
+
+                <xpath expr="//form/sheet/notebook/page[@name='miscellaneous']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+
+                <xpath expr="//form/sheet/notebook/page[@name='miscellaneous']" position="after">
+                    <page name="educational" string="Educativo" invisible="1">
+                        <field name="course_detail_ids" readonly="0" context="{'default_student_id': id}">
+                            <tree>
+                                <field name="student_id" invisible="1"/>
+                                <field name="course_id"/>
+                                <field name="batch_id" domain="[('course_id', '=', course_id)]"/>
+                                <field name="roll_number"/>
+                                <field name="subject_ids" widget="many2many_tags"/>
+                            </tree>
+                        </field>
+                    </page>
+                    <page name="admisiones" string="Educativo">
+                        <group>
+                            <group>
+                                <field name="gr_no"/>
+                            </group>
+                            <group/>
+                        </group>
+                        <field name="admission_ids" readonly="1" context="{'default_student_id': id}">
+                            <tree>
+                                <field name="student_id" invisible="1"/>
+                                <field name="admission_date"/>
+                                <field name="course_id"/>
+                                <field name="batch_id" domain="[('course_id', '=', course_id)]"/>
+                                <field name="academic_record_closing"/>
+                                <field name="start_date"/>
+                                <field name="due_date"/>
+                                <field name="unsubscribed_date"/>
+<!--                                <field name="state" invisible="0"/> EL STATE TIENE OTROS VALORES -->
+                                <field name="status"/>
+                            </tree>
+                        </field>
+                    </page>
+                    <page name="documentation" string="Documentación" invisible="1">
+                        <field name="document_ids" readonly="0" context="{'default_student_id': id}">
+                            <tree>
+                                <field name="student_id" invisible="1"/>
+                                <field name="document_type_id"/>
+                                <field name="drive_url"/>
+                                <field name="drive_id"/>
+                                <field name="document_name" widget="url"/>
+                            </tree>
+                        </field>
+                    </page>
+                    <page name="documentation" string="Documentación del estudiante">
+                        <field name="ir_attachment_ids" readonly="0" context="{'default_partner_id': id}">
+                            <tree editable="bottom">
+                                <field name="partner_id" invisible="1"/>
+                                <field name="document"/>
+                                <field name="name"/>
+                                <field name="datas" filename="name" string="Archivo"/>
+                                <field name="mimetype" invisible="1"/>
+                                <field name="reason_for_observation"/>
+                                <field name="state"
+                                       widget="badge"
+                                       decoration-info="state == 'on_hold'"
+                                       decoration-success="state == 'accepted'"
+                                       decoration-warning="state == 'observed'"/>
+                                <button name="action_observe" type="object" string="Observar" class="btn btn-primary"/>
+                                <button name="action_accept" type="object" string="Aceptar" class="btn btn-primary"/>
+                                <!-- CAMPOS AGREGADOS -->
+<!--                                <field name="document_type_id"/>-->
+                                <field name="drive_url"/>
+                                <field name="drive_id"/>
+<!--                                <field name="document_name" widget="url"/>-->
+                            </tree>
+                        </field>
+                    </page>
+                    <page name="accesos" string="Accesos">
+                        <field name="user_log_ids" nolabel="1" readonly="1">
+                            <tree >
+                                <field name="create_uid" string="Usuario estudiante"/>
+                                <field name="create_date" string="Fecha acceso"/>
+                                <field name="last_access"/>
+                            </tree>
+                        </field>
+                    </page>
+                    <page name="notes" string="Notas">
+                        <field name="grades_line_ids" readonly="1" context="{'default_student_id': id}">
+                            <tree>
+                                <field name="student_id" invisible="1"/>
+                                <field name="sequence" widget="handle"/>
+                                <field name="grade_id"/>
+                                <field name="mdl_groups_name"/>
+                                <field name="course_idnumber"/>
+                                <field name="shortname"/>
+                                <field name="fullname"/>
+                                <field name="finalgrade"/>
+                            </tree>
+                        </field>
+                    </page>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

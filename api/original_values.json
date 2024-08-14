@@ -1,0 +1,2212 @@
+{
+    "9447": {
+        "start_date": "2020-11-13",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9453": {
+        "start_date": "2019-07-12",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9462": {
+        "start_date": "2019-07-12",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9463": {
+        "start_date": "2019-07-12",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9484": {
+        "start_date": "2021-10-16",
+        "end_date": "2023-11-30",
+        "academic_year": "2021-2022"
+    },
+    "9487": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-12-05",
+        "academic_year": "2021-2023"
+    },
+    "9488": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9489": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9515": {
+        "start_date": "2022-01-29",
+        "end_date": "2022-09-30",
+        "academic_year": "2022-2024"
+    },
+    "9524": {
+        "start_date": "2021-11-26",
+        "end_date": "2022-09-30",
+        "academic_year": "2021/2023"
+    },
+    "9525": {
+        "start_date": "2021-11-26",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9526": {
+        "start_date": "2022-02-19",
+        "end_date": "2024-09-30",
+        "academic_year": "2022-2024"
+    },
+    "9528": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9529": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9566": {
+        "start_date": "2022-04-21",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9572": {
+        "start_date": "2022-06-11",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9573": {
+        "start_date": "2022-06-11",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9605": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9606": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9607": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9608": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9673": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9674": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9675": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": false
+    },
+    "9676": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9776": {
+        "start_date": "2023-07-25",
+        "end_date": "2024-07-31",
+        "academic_year": "2022-2024"
+    },
+    "9788": {
+        "start_date": "2023-09-12",
+        "end_date": "2025-09-12",
+        "academic_year": "2023-2025"
+    },
+    "9789": {
+        "start_date": "2023-09-12",
+        "end_date": "2025-09-12",
+        "academic_year": false
+    },
+    "9448": {
+        "start_date": "2019-08-20",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2021"
+    },
+    "9508": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9509": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2022"
+    },
+    "9559": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9560": {
+        "start_date": "2022-04-08",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9724": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9449": {
+        "start_date": "2020-03-20",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9456": {
+        "start_date": "2020-03-20",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9497": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9539": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9540": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9691": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9692": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9450": {
+        "start_date": "2019-06-27",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9493": {
+        "start_date": "2021-07-15",
+        "end_date": "2023-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9494": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9495": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9533": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9537": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9609": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9610": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9683": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9684": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9451": {
+        "start_date": "2019-07-19",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9461": {
+        "start_date": "2019-07-19",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9464": {
+        "start_date": "2012-12-04",
+        "end_date": "2021-12-05",
+        "academic_year": "2017-2019"
+    },
+    "9519": {
+        "start_date": "2021-09-03",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9520": {
+        "start_date": "2021-09-03",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9555": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9556": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9570": {
+        "start_date": "2022-06-11",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9571": {
+        "start_date": "2022-06-11",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9611": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9710": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9711": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9715": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9452": {
+        "start_date": "2019-09-05",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2021"
+    },
+    "9510": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-25",
+        "academic_year": "2021-2022"
+    },
+    "9511": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9512": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9557": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9558": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9620": {
+        "start_date": "2022-09-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9621": {
+        "start_date": "2022-09-10",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9721": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9722": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9454": {
+        "start_date": "2019-09-05",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9490": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9530": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9455": {
+        "start_date": "2019-08-01",
+        "end_date": "2021-12-05",
+        "academic_year": "2020-2022"
+    },
+    "9485": {
+        "start_date": "2021-10-16",
+        "end_date": "2023-11-30",
+        "academic_year": "2021-2022"
+    },
+    "9491": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9492": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9516": {
+        "start_date": "2021-08-31",
+        "end_date": "2022-09-30",
+        "academic_year": "2022-2024"
+    },
+    "9527": {
+        "start_date": "2022-02-19",
+        "end_date": "2024-09-30",
+        "academic_year": "2022-2024"
+    },
+    "9531": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9532": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9567": {
+        "start_date": "2022-04-21",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9574": {
+        "start_date": "2022-06-14",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9575": {
+        "start_date": "2022-06-14",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9679": {
+        "start_date": "2022-11-28",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9680": {
+        "start_date": "2022-11-28",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9681": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9682": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9457": {
+        "start_date": "2020-03-17",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9496": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9517": {
+        "start_date": "2021-08-31",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2022"
+    },
+    "9543": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9544": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9697": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9698": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9458": {
+        "start_date": "2019-09-01",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9500": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9551": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9552": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9705": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9459": {
+        "start_date": "2019-09-18",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2021"
+    },
+    "9498": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9499": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9549": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9550": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9703": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9704": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9460": {
+        "start_date": "2019-08-27",
+        "end_date": "2021-12-05",
+        "academic_year": "2019-2020"
+    },
+    "9506": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2022"
+    },
+    "9507": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2022"
+    },
+    "9534": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9535": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9612": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9685": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9686": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9465": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9579": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9615": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9873": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-01-31",
+        "academic_year": "2024-2026"
+    },
+    "9466": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9580": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9602": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9787": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9467": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9587": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9614": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9872": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9468": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9583": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9604": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9871": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9469": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9584": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9616": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9874": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9470": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9585": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9617": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9875": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9471": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9594": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9619": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9877": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9472": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9595": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9603": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9870": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9473": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9581": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9599": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9867": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9474": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9577": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9600": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9868": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9475": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9582": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9601": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9869": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9476": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9589": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9762": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9882": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9477": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9590": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9763": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9883": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9478": {
+        "start_date": "2021-06-11",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9479": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9588": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9618": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9876": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9480": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9578": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9761": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9881": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9481": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9591": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9765": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9884": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9482": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9593": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9631": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": false
+    },
+    "9879": {
+        "start_date": "2024-02-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9483": {
+        "start_date": "2021-01-31",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9592": {
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9630": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2023"
+    },
+    "9878": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9486": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9586": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9772": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9866": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9501": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9502": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9503": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9553": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9554": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9613": {
+        "start_date": "2022-08-29",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9708": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9709": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9859": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9860": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9861": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9862": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9504": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9564": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9769": {
+        "start_date": "2023-02-21",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9855": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9856": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9857": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9858": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9505": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9563": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9851": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9852": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9853": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9854": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9513": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2022"
+    },
+    "9536": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9538": {
+        "start_date": "2022-04-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9689": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9690": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9514": {
+        "start_date": "2021-07-15",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9541": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9542": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9695": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9696": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9518": {
+        "start_date": "2021-09-03",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9561": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9568": {
+        "start_date": "2022-05-28",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9725": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9726": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9843": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9844": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9845": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9846": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9521": {
+        "start_date": "2021-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2021-2023"
+    },
+    "9576": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9775": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9522": {
+        "start_date": "2021-09-28",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9565": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9750": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9764": {
+        "start_date": "2023-01-06",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9523": {
+        "start_date": "2021-09-30",
+        "end_date": "2022-09-30",
+        "academic_year": "2021-2023"
+    },
+    "9562": {
+        "start_date": "2022-04-07",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9749": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9847": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9848": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9849": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9850": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9545": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9546": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9699": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9700": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9547": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022/2024"
+    },
+    "9548": {
+        "start_date": "2022-04-06",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9701": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9702": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9569": {
+        "start_date": "2022-06-11",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2023"
+    },
+    "9662": {
+        "start_date": "2022-11-17",
+        "end_date": "2022-12-31",
+        "academic_year": false
+    },
+    "9596": {
+        "start_date": "2022-07-05",
+        "end_date": "2022-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9687": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9688": {
+        "start_date": "2022-11-28",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9597": {
+        "start_date": "2022-07-20",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9598": {
+        "start_date": "2022-08-19",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9770": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9885": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9622": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2023-2030"
+    },
+    "9771": {
+        "start_date": "2023-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9623": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9766": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9624": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9625": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9626": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9627": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9628": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9629": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2022-2030"
+    },
+    "9632": {
+        "start_date": "2022-10-26",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9633": {
+        "start_date": "2022-10-26",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9634": {
+        "start_date": "2022-11-04",
+        "end_date": "2024-12-31",
+        "academic_year": false
+    },
+    "9635": {
+        "start_date": "2022-11-04",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2026"
+    },
+    "9636": {
+        "start_date": "2022-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2022-2024"
+    },
+    "9637": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9880": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9638": {
+        "start_date": "2023-07-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023/2"
+    },
+    "9639": {
+        "start_date": "2023-07-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2023"
+    },
+    "9640": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9641": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9642": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9643": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9644": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9645": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9646": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9647": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-30",
+        "academic_year": "2020-2030"
+    },
+    "9648": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9649": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9650": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9651": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9652": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9653": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9654": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9655": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9656": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9657": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9658": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9659": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9660": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9661": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9663": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9664": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9665": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9666": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9667": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9668": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9669": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9670": {
+        "start_date": "2022-01-01",
+        "end_date": "2022-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9671": {
+        "start_date": "2020-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9672": {
+        "start_date": "2022-01-01",
+        "end_date": "2030-12-31",
+        "academic_year": "2020-2030"
+    },
+    "9677": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9678": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9784": {
+        "start_date": "2022-11-27",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9693": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9694": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9706": {
+        "start_date": "2022-12-09",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9707": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9712": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9815": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9713": {
+        "start_date": "2022-12-12",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9814": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9714": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9818": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9716": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9817": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9717": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9816": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9718": {
+        "start_date": "2022-12-12",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9819": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9719": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9820": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9720": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9821": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9723": {
+        "start_date": "2022-12-10",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9822": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9727": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9823": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9728": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9824": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9729": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9825": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9730": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9826": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9731": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9827": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9732": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9828": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9733": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9829": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9734": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9830": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9735": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9831": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9736": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9832": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9737": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9833": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9738": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9834": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9739": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9835": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9740": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9836": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9741": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9837": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9742": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9838": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9743": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9744": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9839": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9745": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9840": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9746": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9841": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9747": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9842": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9748": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9813": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9751": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9809": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9752": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9810": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9753": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9811": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9754": {
+        "start_date": "2022-12-13",
+        "end_date": "2023-12-31",
+        "academic_year": "2023"
+    },
+    "9812": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024"
+    },
+    "9755": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9756": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9757": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9758": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9759": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9760": {
+        "start_date": "2022-12-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9767": {
+        "start_date": "2023-02-14",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9768": {
+        "start_date": "2023-02-21",
+        "end_date": "2023-06-29",
+        "academic_year": false
+    },
+    "9773": {
+        "start_date": "2023-09-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9777": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9786": {
+        "start_date": "2023-08-15",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9805": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9806": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9807": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9808": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9774": {
+        "start_date": "2023-07-08",
+        "end_date": "2023-07-10",
+        "academic_year": false
+    },
+    "9778": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9779": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9863": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9780": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9781": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2023"
+    },
+    "9864": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9782": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9783": {
+        "start_date": "2023-07-26",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9865": {
+        "start_date": "2024-01-01",
+        "end_date": "2024-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9785": {
+        "start_date": "2023-01-01",
+        "end_date": "2025-12-31",
+        "academic_year": "2023-2025"
+    },
+    "9790": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9886": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": false
+    },
+    "9791": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9887": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9792": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9888": {
+        "start_date": "2024-01-01",
+        "end_date": "2026-12-31",
+        "academic_year": "2024-2026"
+    },
+    "9793": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9794": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9795": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9796": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9797": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9798": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9799": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9800": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9801": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9802": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9803": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    },
+    "9804": {
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "academic_year": "2023-2024"
+    }
+}
